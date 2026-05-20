@@ -100,9 +100,9 @@ p {
 
 <!-- SURPRISE CONTENT -->
 <div class="card" id="surprise">
-    <img src="mahaa.jpg" alt="Mahaaa" class="photo">
+    <img src="sindhu .jpg" alt="sindhu" class="photo">
 
-    <h2>💙 Mahaaa 💙</h2>
+    <h2>💙 sindhu 💙</h2>
 
     <p>
         You are always and always my best place to be.<br><br>
